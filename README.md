@@ -1,5 +1,5 @@
 # Application
-# Converting handwrittern or hand drawn text into E-text.
+# Converting handwritten or hand drawn text into E-text.
 Libraries - cv2, numpy, matplotlib
 
 Language - Python
